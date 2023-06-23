@@ -1,4 +1,4 @@
-<h1><img src="./logo12.jpg" alt=personal logo" width=50> Ark Industries</h1>
+<h1><img src="./images/logo12.jpg" alt=personal logo" width=50> Ark Industries</h1>
 
 > Version 1
 
