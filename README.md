@@ -7,7 +7,7 @@ Ark Industries will be a reference for automation in the history of technology.
 ## Pac men
 
 This page shows an example of how to manipulate the DOM to create elements and animate them.  
-<img src="PacMan1.png">
+<img src="./images/PacMan1.png" height="169" width="149">
 
 ## Usage
 
