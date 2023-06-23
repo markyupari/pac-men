@@ -6,7 +6,7 @@ Ark Industries will be a reference for automation in the history of technology.
 
 ## Pac men
 
-This page shows an example of how to manipulate the DOM to create elements and animate them.  
+This page shows an example of how to manipulate the DOM to create elements and animate them. The "Add new" button makes a new Pacman appear at a random location. You can add as many as you want. Clicking on "Start Game" to animate all the Pacmen you've created. Enjoy!  
 <img src="./images/PacMan1.png" height="169" width="149">
 <img src="./images/PacMan3.png" height="169" width="149">
 
