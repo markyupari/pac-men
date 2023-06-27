@@ -10,7 +10,7 @@ This page shows an example of how to manipulate the DOM to create elements and a
 <img src="./images/PacMan1.png" height="169" width="149">
 <img src="./images/PacMan3.png" height="169" width="149">
 
-## Usage
+## How to run
 
 This file can be used for beginners in the world of web development to create their first web page in GitHub.  
 To use it, just fork it to your repository and deploy it.  
